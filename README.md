@@ -28,4 +28,4 @@ This code can be used to optimize an objective function of n variables and produ
         Usage: 
               Get minima point and its function value.
               
-Give apprpriate objective function and input variables in INPUT ARENA to get the minima and plot contours.
+Give appropriate objective function and input variables in INPUT ARENA to get the minima and plot contours.
